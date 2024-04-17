@@ -49,5 +49,3 @@ Screenshots of Web App:
 
 
 
-
-Contributor- Prachi Bhatt
